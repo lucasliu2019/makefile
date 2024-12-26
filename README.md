@@ -69,4 +69,3 @@ Special variable:
 - $? all prerequisite newer
 - $< first prerequisite
 - $@ target name
-
